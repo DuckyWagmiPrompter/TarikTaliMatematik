@@ -4,6 +4,7 @@ A Malaysian heritage tug-of-war game reimagined into a real-time math battle tha
 Heritage Reimagined Educational Game
 
 Built using Gemini Canvas
+This is only a prototype level. Proceed with PRD to build a live version.
 ---
 
 # Overview
